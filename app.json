@@ -1,0 +1,14 @@
+{
+    "name": "aa-heroku",
+    "description": "Deploy aa on Heroku.",
+    "keywords": ["aa"],
+    "env": {
+        "UUID": {
+            "description": "aa UUID",
+            "value": "f5b224a9-714c-45a8-bf8a-e8e08308f91e"
+        }
+    },
+    "website": "https://github.com/",
+    "repository": "https://github.com/boy12371/aa-heroku",
+    "stack": "container"
+}
